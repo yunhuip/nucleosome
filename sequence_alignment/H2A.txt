@@ -1,0 +1,85 @@
+p0c0s8	Histone H2A type 1	H2A_2
+p16104	Histone H2AX	H2A_2
+p0c0s8	Histone H2A type 1	H2A_3
+p16104	Histone H2AX	H2A_3
+p0c0s8	Histone H2A type 1	H2A_4
+p0c0s8	Histone H2A type 1	H2A_5
+p0c0s8	Histone H2A type 1	H2A_7
+p0c0s8	Histone H2A type 1	H2A_8
+p0c0s8	Histone H2A type 1	H2A_9
+p0c0s8	Histone H2A type 1	H2A_10
+p0c0s8	Histone H2A type 1	H2A_11
+p0c0s5	Histone H2A.Z	H2A_20
+p0c0s5	Histone H2A.Z	H2A_21
+p0c0s5	Histone H2A.Z	H2A_23
+p0c0s5	Histone H2A.Z	H2A_29
+p0c0s5	Histone H2A.Z	H2A_30
+p0c0s5	Histone H2A.Z	H2A_31
+p0c0s5	Histone H2A.Z	H2A_32
+p0c0s5	Histone H2A.Z	H2A_34
+p0c0s5	Histone H2A.Z	H2A_35
+q9btm1	Histone H2A.J	H2A_35
+q9btm1	Histone H2A.J	H2A_36
+p0c0s5	Histone H2A.Z	H2A_38
+q9btm1	Histone H2A.J	H2A_38
+p0c0s5	Histone H2A.Z	H2A_46
+p0c0s5	Histone H2A.Z	H2A_47
+p0c0s5	Histone H2A.Z	H2A_48
+p0c0s5	Histone H2A.Z	H2A_49
+p0c0s5	Histone H2A.Z	H2A_50
+p0c0s5	Histone H2A.Z	H2A_51
+p0c0s5	Histone H2A.Z	H2A_52
+p0c0s5	Histone H2A.Z	H2A_53
+p0c0s5	Histone H2A.Z	H2A_75
+p16104	Histone H2AX	H2A_78
+p16104	Histone H2AX	H2A_78
+p16104	Histone H2AX	H2A_79
+p16104	Histone H2AX	H2A_79
+p16104	Histone H2AX	H2A_80
+p16104	Histone H2AX	H2A_80
+p0c0s5	Histone H2A.Z	H2A_81
+p16104	Histone H2AX	H2A_81
+p16104	Histone H2AX	H2A_81
+p16104	Histone H2AX	H2A_82
+p16104	Histone H2AX	H2A_82
+p0c0s5	Histone H2A.Z	H2A_83
+p16104	Histone H2AX	H2A_83
+p16104	Histone H2AX	H2A_83
+p0c0s5	Histone H2A.Z	H2A_84
+p16104	Histone H2AX	H2A_84
+p16104	Histone H2AX	H2A_84
+p0c0s5	Histone H2A.Z	H2A_85
+p16104	Histone H2AX	H2A_85
+p16104	Histone H2AX	H2A_85
+p16104	Histone H2AX	H2A_86
+p16104	Histone H2AX	H2A_86
+p0c0s5	Histone H2A.Z	H2A_87
+p0c0s5	Histone H2A.Z	H2A_88
+p0c0s5	Histone H2A.Z	H2A_91
+p0c0s5	Histone H2A.Z	H2A_92
+p0c0s5	Histone H2A.Z	H2A_98
+p0c0s5	Histone H2A.Z	H2A_101
+p0c0s5	Histone H2A.Z	H2A_102
+p0c0s5	Histone H2A.Z	H2A_104
+p16104	Histone H2AX	H2A_138
+p16104	Histone H2AX	H2A_141
+p16104	Histone H2AX	H2A_141
+p16104	Histone H2AX	H2A_141
+p16104	Histone H2AX	H2A_142
+p16104	Histone H2AX	H2A_142
+p16104	Histone H2AX	H2A_142
+p16104	Histone H2AX	H2A_143
+p16104	Histone H2AX	H2A_143
+p16104	Histone H2AX	H2A_143
+p16104	Histone H2AX	H2A_143
+o75367	Core histone macro-H2A.1	H2A_169
+o75367	Core histone macro-H2A.1	H2A_170
+o75367	Core histone macro-H2A.1	H2A_171
+o75367	Core histone macro-H2A.1	H2A_172
+o75367	Core histone macro-H2A.1	H2A_173
+o75367	Core histone macro-H2A.1	H2A_174
+o75367	Core histone macro-H2A.1	H2A_175
+o75367	Core histone macro-H2A.1	H2A_176
+o75367	Core histone macro-H2A.1	H2A_177
+o75367	Core histone macro-H2A.1	H2A_178
+o75367	Core histone macro-H2A.1	H2A_179

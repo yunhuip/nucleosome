@@ -1,0 +1,5 @@
+p49450	Histone H3-like centromeric protein A	Homo sapiens	79|80|81|82|83	2|2|1|2|1
+p61830	Histone H3	Saccharomyces cerevisiae	77|78|79|80|81	2|2|2|2|2
+p68431	Histone H3.1	Homo sapiens	41|47	1|1
+p84233	Histone H3.2	Xenopus laevis	77|78|79|80|81|82	3|3|3|3|4|1
+p84243	Histone H3.3	Homo sapiens	84	1

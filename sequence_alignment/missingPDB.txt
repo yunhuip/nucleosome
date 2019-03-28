@@ -1,0 +1,44 @@
+MISSING FROM ALEX FILES:
+2jmj
+2rnw -- homo
+2rnx
+2rny -- homo
+
+
+WRONG ALIGNMENTS IN ALEX FILES?:
+1guw -- 2 separate alignments for histone; need to check
+1q2c 
+2dew -- homo
+2dex -- homo
+2dey -- homo
+2lgg -- homo
+2mnz -- homo
+2ndf -- homo
+2ndg -- homo
+2pvc -- homo
+2pxj -- homo
+3k26 -- homo
+3psl -- homo
+4i51 -- homo
+5jxt
+5wyi 
+6biz -- homo
+
+
+CHIMERIC CHAINS:
+2idc
+2jss
+2l5a
+3a1b -- homo
+3mp1
+3mp6
+4kha
+4nft -- homo
+4up0 -- homo
+4m6b
+5iit -- homo
+5kjh
+5kkl -- homo
+5lnc -- homo
+5vey -- homo
+5wfc
